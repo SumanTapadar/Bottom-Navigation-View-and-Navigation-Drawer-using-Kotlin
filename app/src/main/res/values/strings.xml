@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BasicDesign</string>
+
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="dash">Dashboard</string>
+    <string name="account">Account</string>
+
+
+    <string name="open_nav">open navigation drawyer </string>
+    <string name="close_nav">close navigation drawyer </string>
+
+
+
+
+</resources>
